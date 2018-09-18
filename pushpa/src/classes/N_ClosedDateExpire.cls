@@ -1,6 +1,8 @@
 public class N_ClosedDateExpire {
     public static void testopportunitymail(){
         Map<String,String> userIdtoEmailId=new Map<String,String>();
+        list<user> us=new list<user>();
+        string u='udf';
         Map<String,String> OpptoCloseDate = new Map<String,String>();
         Map<String,String> OppNameToOppId=new Map<String,String>();
         Map<String,Map<String,String>> UserToOpp = new Map<String,Map<String,String>>();
